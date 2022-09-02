@@ -1,10 +1,8 @@
-# Kodluyoruz Ilk Repo
+# Introduction to Data Visualization with matplotlib
 
 Bu repo yeni başlayanlar için [Matplotlib](https://matplotlib.org/) kütüphanesi ile Veri Görselleştirme için hazırlamış olduğum bir kaynak niteliğindedir. İçerisinde bir adet README dosyası, bir adet de introduction-to-data-visualization.ipynb barındırıyor.
 
 ![image](https://miro.medium.com/max/1400/1*u3QkXncCVoUk0ayFAYmYOQ.png)
-
-# Introduction to Data Visualization with matplotlib
 ---
 ## Öğreneceğimiz Alt Başlıklar
 1. Matplotlib'e Giriş
