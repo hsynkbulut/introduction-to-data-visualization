@@ -58,5 +58,3 @@ Bu repo yeni başlayanlar için [Matplotlib](https://matplotlib.org/) kütüphan
 * MLY-TAVG-NORMAL: Her ayın ortalama sıcaklık miktarlarını içerir.
 * MLY-TAVG-STDDEV: Her ayın sıcaklıklarının standart sapmasını içerir. 
 ---
-## License
-[MIT](https://choosealicense.com/licenses/mit/)
